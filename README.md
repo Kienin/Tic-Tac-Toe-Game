@@ -7,16 +7,6 @@ This is a simple Tic Tac Toe game implemented in Python using the Tkinter librar
 - Python 3.x
 - Tkinter (usually comes pre-installed with Python)
 
-## 📥 Installation
-1. Ensure you have Python installed on your system.
-2. Clone or download the repository:
-   ```bash
-   git clone https://github.com/Kienin/tic-tac-toe.git
-   Navigate to the project directory:
-## 👩‍💻 How to Run
-- Open your terminal or command prompt.
-- Run the game using Python:
-
 ## 🎮 How to Play
 Players will take turns clicking on the empty buttons to place their symbols (X or O).
 The game checks for a winner after each turn.
